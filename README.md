@@ -2,7 +2,7 @@
 
 ## Step 1 - Upload your CSV / XLSX file
 
-**Prompt**: ```Copilot will summarize the uploaded file and give info on the file content.```
+**Prompt**: no prompt here, just upload the file and hit [Enter]. Sometimes, copilot will then summarize the uploaded file and give info on the file content, sometimes not, depends on its mood.
 
 
 ## Step 2 - List the customers available in the uploaded file and the available period covered to shape Step 3 prompt
