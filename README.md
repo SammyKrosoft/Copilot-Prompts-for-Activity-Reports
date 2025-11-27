@@ -10,9 +10,10 @@
 
 ## Step 1 - Upload your CSV / XLSX file
 
-**Prompt**: no prompt here, just upload the file and hit [Enter]. 
+**Prompt**: no prompt here, just chose **Add work content**, chose the file and hit [Enter]. 
 
-<img width="448" height="218.5" alt="image" src="https://github.com/user-attachments/assets/df9d6c76-fa68-4bde-85fe-7303f1b8187b" />
+<img width="435" height="202" alt="image" src="https://github.com/user-attachments/assets/beb8bb56-7f19-41bb-8be8-866d3ef77d72" />
+
 
 Sometimes, copilot will then summarize the uploaded file and give info on the file content, sometimes not, depends on its mood.
 
