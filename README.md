@@ -83,3 +83,8 @@ Copilot prompt:	Can you identify the top 3 risks and challenges from the logged 
 Copilot prompt:	Can you write a conclusion from the logged notes ?
 
 ```
+## Step 5 - Generate a formatted Word document
+
+**Prompt**: ```Generate a formatted Word document.```
+
+Copilot will generate a Word document and give you a download link.
