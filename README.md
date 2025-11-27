@@ -20,13 +20,19 @@ Sometimes, copilot will then summarize the uploaded file and give info on the fi
 
 ## Step 2 - List the customers available in the uploaded file and the available period covered to shape Step 3 prompt
 
-**Prompt**: ```List the customers available in the uploaded file and the available period covered. For each customer, give me the sum of hours logged, and sort by the hours logged . If a customer name is "Unknown", that means it's overhead time. Please ignore it.```
+**Prompt**: 
+```
+List the customers available in the uploaded file and the available period covered. For each customer, give me the sum of hours logged, and sort by the hours logged . If a customer name is "Unknown", that means it's overhead time. Please ignore it.
+```
 
 And copy (CTRL+C) the customer name you want to fill the template with to paste on the prompt on Step 3 below.
 
 ## Step 3 - Tell Copilot which customer and what month(s) you will focus on
 
-**Prompt**: ```We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...```
+**Prompt**: 
+```
+We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...
+```
 
 
 ## Step 4 - Ask copilot to use a template you paste
