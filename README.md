@@ -10,6 +10,7 @@
 
 ## Step 1 - Upload your CSV / XLSX file
 
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **Prompt**: 
 **Prompt**: no prompt here, just chose **Add work content**, chose the file and hit [Enter]. 
 
 <img width="435" height="202" alt="image" src="https://github.com/user-attachments/assets/beb8bb56-7f19-41bb-8be8-866d3ef77d72" />
@@ -20,7 +21,7 @@ Sometimes, copilot will then summarize the uploaded file and give info on the fi
 
 ## Step 2 - List the customers available in the uploaded file and the available period covered to shape Step 3 prompt
 
-**Prompt**: 
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **Prompt**: 
 ```
 List the customers available in the uploaded file and the available period covered. For each customer, give me the sum of hours logged, and sort by the hours logged . If a customer name is "Unknown", that means it's overhead time. Please ignore it.
 ```
@@ -29,6 +30,7 @@ And copy (CTRL+C) the customer name you want to fill the template with to paste 
 
 ## Step 3 - Tell Copilot which customer and what month(s) you will focus on
 
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **Prompt**: 
 **Prompt**: 
 ```
 We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...
@@ -37,6 +39,7 @@ We will focus on the customer <Customer_Name>, and on the months of <Month 01>, 
 
 ## Step 4 - Ask copilot to use a template you paste
 
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **Prompt**: 
 **Prompt - copy the whole prompt, replace customer name, and the months only on the *first line of the prompt*** :
 
 ```
