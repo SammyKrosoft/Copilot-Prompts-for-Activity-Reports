@@ -36,6 +36,9 @@ And copy (CTRL+C) the customer name you want to fill the template with to paste 
 ```
 Fill this template for customer specified on the previous prompt, for the months specified in the previous prompt, using the Copilot Prompt suggested for each part. Do not change the titles. Context: the generated activity report will be for a Word document.
 
+Title: Activity Report for <Customer Name>
+
+Period covered: <month or dates covered in this activity report>
 
 1\. 	Executive Summary
 
