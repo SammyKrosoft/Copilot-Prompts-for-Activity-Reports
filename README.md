@@ -38,7 +38,7 @@ We will focus on the customer <Customer_Name>, and on the months of <Month 01>, 
 
 ## Step 4 - Ask copilot to use a template you paste
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the Step #3 prompt above*** :
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the *Step #3* prompt above** :
 
 ```
 Fill this template for customer specified on the previous prompt, for the months specified in the previous prompt, using the Copilot Prompt suggested for each part. Do not change the titles. Context: the generated activity report will be for a Word document.
