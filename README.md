@@ -1,4 +1,4 @@
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 
 
 # Generate an activity report for each customer (monthly, bi-monthly,...)
@@ -12,8 +12,7 @@
 
 **Prompt**: no prompt here, just upload the file and hit [Enter]. Sometimes, copilot will then summarize the uploaded file and give info on the file content, sometimes not, depends on its mood.
 
-<img width="896" height="437" alt="image" src="https://github.com/user-attachments/assets/df9d6c76-fa68-4bde-85fe-7303f1b8187b" />
-
+<img width="448" height="218.5" alt="image" src="https://github.com/user-attachments/assets/df9d6c76-fa68-4bde-85fe-7303f1b8187b" />
 
 
 ## Step 2 - List the customers available in the uploaded file and the available period covered to shape Step 3 prompt
