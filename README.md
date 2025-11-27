@@ -14,7 +14,7 @@ And copy (CTRL+C) the customer name you want to fill the template with to paste 
 
 ## Step 3 - Ask copilot to use a template you paste
 
-**Prompt - copy the whole prompt, replace customer name, and the months only on the *first line of the prompt only* ** :
+**Prompt - copy the whole prompt, replace customer name, and the months only on the *first line of the prompt*** :
 
 ```
 Fill this template for customer <Customer\_Name>, for the months <put here the months you want to report, or all months in the activity file>, using the Copilot Prompt suggested for each part:
