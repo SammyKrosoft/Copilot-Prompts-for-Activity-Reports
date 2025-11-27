@@ -1,5 +1,10 @@
 # Generate an activity report for each customer (monthly, bi-monthly,...)
 
+## Prerequisites
+
+- your activity file (Excel or CSV)
+- thesuggested prompts on this page
+
 ## Step 1 - Upload your CSV / XLSX file
 
 **Prompt**: no prompt here, just upload the file and hit [Enter]. Sometimes, copilot will then summarize the uploaded file and give info on the file content, sometimes not, depends on its mood.
