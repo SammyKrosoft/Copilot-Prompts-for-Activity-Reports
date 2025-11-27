@@ -6,7 +6,7 @@
 ## Prerequisites
 
 - your activity file (Excel or CSV)
-- thesuggested prompts on this page
+- the suggested prompts on this page, but you can tweak them, use your own, the possibilities are endless ! 🤩
 
 ## Step 1 - Upload your CSV / XLSX file
 
