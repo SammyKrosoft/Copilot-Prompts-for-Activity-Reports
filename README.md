@@ -1,4 +1,5 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/273ef43f-a74f-4ed2-9242-86b0946bec1b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+
 
 # Generate an activity report for each customer (monthly, bi-monthly,...)
 
