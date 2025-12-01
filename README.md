@@ -31,7 +31,7 @@
   - ***Labor Notes***
 
 > Tip for good quick notes:
-> Structure your notes in a few words in the form ***<Project Title/Name> - <Quick description of what you did in a few words>***
+> Structure your notes in a few words in the form ***<Project Title/Name> - \<Quick description of what you did in a few words\>***
 
   - Optionnally ***Logged Hours*** indicating how much labor the task took
 
