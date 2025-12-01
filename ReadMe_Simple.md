@@ -1,6 +1,6 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 
-> Note: a simplified quick ref version of this Walk-Through exists on this link : [More verbose version of this Walk-Through](https://aka.ms/CopilotActivityReporting)
+> Note: a more verbose  version of this Walk-Through exists on this link : [More verbose version of this Walk-Through](https://aka.ms/CopilotActivityReporting)
 
 # Generate an activity report for each customer (monthly, bi-monthly,...)
 
