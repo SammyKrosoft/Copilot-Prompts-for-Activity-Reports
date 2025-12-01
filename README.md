@@ -123,6 +123,10 @@ Copilot prompt:	Can you identify the top 3 risks and challenges from the logged 
 Copilot prompt:	Can you write a conclusion from the logged notes ?
 
 ```
+
+<img width="439" height="282" alt="image" src="https://github.com/user-attachments/assets/fce6e369-e2af-41d3-be2e-c8141b4a0ec8" />
+
+
 ## Step 5 - Generate a formatted Word document
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] :**
