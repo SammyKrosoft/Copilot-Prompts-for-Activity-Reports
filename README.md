@@ -15,10 +15,7 @@
 </table>
 
 
-
-
-
-
+> Note: a simplified quick ref version of this Walk-Through exists in this link : [Simplified version of CopilotActivityReporting](https://aka.ms/CopActRep)
 
 # Generate an activity report for each customer (monthly, bi-monthly,...)
 
