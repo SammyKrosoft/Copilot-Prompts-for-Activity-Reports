@@ -171,6 +171,10 @@ The Word document might need some tweaking, but here's what it looks like:
 
 <img width="442" height="285" alt="image" src="https://github.com/user-attachments/assets/bc88eba8-f350-4e0f-a74f-85f17ab63d8c" />
 
+Also Copilot cannot generate a Table of Contents for now, but the formatting uses Title / Heading 1 / Heading 2 / etc... and inserting a ToC is straightforward:
+
+<img width="173" height="116" alt="image" src="https://github.com/user-attachments/assets/381a96b2-234e-4998-9704-1643c896879c" />
+
 
 ... and Copilot even proposes to create an Excel companion file ! This AI tool is awesome 🥹
 
