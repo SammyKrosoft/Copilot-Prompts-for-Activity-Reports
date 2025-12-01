@@ -55,7 +55,7 @@ This can take some time. But once it finishes processing the data, you will have
 
 <img width="456.5" height="289.5" alt="image" src="https://github.com/user-attachments/assets/73882030-b73e-439d-928c-b9418bbf848c" />
 
-And copy (CTRL+C) the customer name you want to fill the template with to paste on the prompt on **Step 3** below.
+And copy (CTRL+C) the customer name you want to fill the template with, to paste on the prompt on prompt <Customer> placeholder on **Step 3** below.
 
 ## Step 3 - Tell Copilot which customer and what month(s) you will focus on
 
