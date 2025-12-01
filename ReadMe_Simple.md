@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-> Note: a more verbose  version of this Walk-Through exists on this link : [More verbose version of this Walk-Through](https://aka.ms/CopilotActivityReporting)
+> Note: a more verbose  version of this Walk-Through can be found on this link : [More verbose version of this Walk-Through](https://aka.ms/CopilotActivityReporting)
 
 # Generate an activity report for each customer (monthly, bi-monthly,...)
 
