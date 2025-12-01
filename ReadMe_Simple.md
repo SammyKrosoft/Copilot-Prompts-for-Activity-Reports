@@ -37,7 +37,7 @@ List the customers available in the uploaded file and the available period cover
 
 This can take some time.
 
-Then copy (CTRL+C) the customer name you want to fill the template with to paste on the prompt on **Step 3** below.
+And copy (CTRL+C) the customer name you want to fill the template with, to paste on the prompt on prompt ```<Customer_Name>``` placeholder on **Step 3** below.
 
 ## Step 3 - Tell Copilot which customer and what month(s) you will focus on
 
