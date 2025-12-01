@@ -133,4 +133,7 @@ Generate a formatted Word document.
 
 Copilot will generate a Word document and give you a download link similar to the below:
 
+<img width="318" height="354" alt="image" src="https://github.com/user-attachments/assets/10611e96-8b53-4e63-9cc1-2b324f9b7e52" />
+
+... and Copilot even proposes to create an Excel companion file ! This AI tool is awesome 🥹
 
