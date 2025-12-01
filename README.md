@@ -15,7 +15,7 @@
 </table>
 
 
-> Note: a simplified quick ref version of this Walk-Through exists on this link : [Simplified version of this Walk-Through](https://aka.ms/CopActRep)
+> Note: a simplified quick ref version of this Walk-Through can be found on this link : [Simplified version of this Walk-Through](https://aka.ms/CopActRep)
 
 # Generate an activity report for each customer (monthly, bi-monthly,...)
 
