@@ -9,7 +9,7 @@
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%;">
       <strong>Welcome</strong><br>
-      <a href="https://aka.ms/CopilotActivityReporting">aka.ms/CopilotActivityReporting</a>
+      <a>aka.ms/CopilotActivityReporting</a>
     </td>
   </tr>
 </table>
