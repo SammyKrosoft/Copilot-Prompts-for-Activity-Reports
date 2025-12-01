@@ -31,8 +31,21 @@
 
 <img width="435" height="202" alt="image" src="https://github.com/user-attachments/assets/beb8bb56-7f19-41bb-8be8-866d3ef77d72" />
 
+And then chose your file:
 
-Sometimes, copilot will then summarize the uploaded file and give info on the file content, sometimes not, depends on its mood.
+<img width="327" height="201" alt="image" src="https://github.com/user-attachments/assets/a8a3295c-8d6f-40b9-9be1-b9139ff86934" />
+
+Copilot will load it into the session (Copilot 365 will upload it in your Onedrive for Business drive), and you will have to validate as if you had put a prompt - but you will just have the file in the chat box:
+
+<img width="466" height="172" alt="image" src="https://github.com/user-attachments/assets/166a9558-d151-4fcf-9945-d27bc0b9460b" />
+
+You will need to wait a little bit that the file uploads to Onedrive (if you're using M365 Copilot App or chat) or to the Copilot chat session. Sometimes, copilot will then summarize the uploaded file and give info on the file content, sometimes not, depends on its mood - in the below example he chose not to do it without me asking for it:
+
+<img width="442.5" height="231" alt="image" src="https://github.com/user-attachments/assets/6987548c-a6fb-450c-9ebe-91702a132946" />
+
+
+
+
 
 
 ## Step 2 - List the customers available in the uploaded file and the available period covered to shape Step 3 prompt
