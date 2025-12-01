@@ -1,14 +1,19 @@
 
-<table>
+
+<table style="width:100%; border-collapse:collapse;" border="0">
   <tr>
-    <td align="center" valign="middle">
+    <!-- Image Cell -->
+    <td style="text-align:center; vertical-align:middle; width:50%;">
       <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
     </td>
-    <td align="center" valign="middle">
-      <strong>Welcome to aka.ms/CopilotActivityReporting</strong>
+    <!-- Text Cell -->
+    <td style="text-align:center; vertical-align:middle; width:50%;">
+      <strong>Welcome</strong><br>
+      <a href="https://aka.ms/CopilotActivityReporting">aka.ms/CopilotActivityReporting</a>
     </td>
   </tr>
 </table>
+
 
 
 
