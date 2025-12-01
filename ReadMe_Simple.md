@@ -2,7 +2,7 @@
   <tr>
     <!-- Image Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
-      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
     </td>
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
