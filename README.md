@@ -38,6 +38,16 @@
  
  <img width="451" height="241" alt="image" src="https://github.com/user-attachments/assets/fd564080-bf08-47c2-95f5-f075b5a6d9ed" />
 
+If the labor notes come from a Power BI report, you can export it from the visual directly as a .CSV if it's from a Power BI Desktop table visual, or as a .XLSX if it's from a Power BI Service (Power BI Online):
+
+<img width="266" height="154" alt="image" src="https://github.com/user-attachments/assets/e8623f2a-4662-4817-b463-c98863ad0035" />
+
+and chose Export:
+
+<img width="235" height="210" alt="image" src="https://github.com/user-attachments/assets/9b5ccb55-fb95-4c0f-bfd0-cf352a955fde" />
+
+
+
 > Tip for good quick notes:
 > Structure a few words in the form ***<Project Title/Name> - <Quick description of what you did in a few words>***
 
