@@ -167,6 +167,11 @@ Copilot will generate a Word document and give you a download link similar to th
 
 <img width="318" height="354" alt="image" src="https://github.com/user-attachments/assets/10611e96-8b53-4e63-9cc1-2b324f9b7e52" />
 
+The Word document might need some tweaking, but here's what it looks like:
+
+<img width="442" height="285" alt="image" src="https://github.com/user-attachments/assets/bc88eba8-f350-4e0f-a74f-85f17ab63d8c" />
+
+
 ... and Copilot even proposes to create an Excel companion file ! This AI tool is awesome 🥹
 
 <img width="592" height="356" alt="image" src="https://github.com/user-attachments/assets/184d5010-af09-4487-bd39-e55bafa67b72" />
