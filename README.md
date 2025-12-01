@@ -1,17 +1,19 @@
 
 
-
-<table style="width:100%; border:none; border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse; border:none;" border="0">
   <tr>
-    <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
-      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce">
+    <!-- Image Cell -->
+    <td style="text-align:center; vertical-align:middle; width:50%;">
+      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
     </td>
-    <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
+    <!-- Text Cell -->
+    <td style="text-align:center; vertical-align:middle; width:50%;">
       <strong>Welcome</strong><br>
       <a href="https://aka.ms/CopilotActivityReporting">aka.ms/CopilotActivityReporting</a>
     </td>
   </tr>
 </table>
+
 
 
 
