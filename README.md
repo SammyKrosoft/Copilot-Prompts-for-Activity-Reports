@@ -8,8 +8,7 @@
     </td>
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%;">
-      <strong>Welcome to </strong><br>
-      <a>aka.ms/CopilotActivityReporting</a>
+      <strong>Welcome to aka.ms/CopilotActivityReporting</strong>
     </td>
   </tr>
 </table>
