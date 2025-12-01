@@ -29,6 +29,10 @@
   - **Engineer Name or Alias**, especially if several engineers share the same workbook to track their labor notes
   - ***Customer or Company Name***
   - ***Labor Notes***
+
+> Tip for good quick notes:
+> Structure your notes in a few words in the form ***<Project Title/Name> - <Quick description of what you did in a few words>***
+
   - Optionnally ***Logged Hours*** indicating how much labor the task took
 
  |Labor Date|Engineer Name or Alias|Customer or Company Name|Labor Notes|Logged Hours|
@@ -45,11 +49,6 @@ If the labor notes come from a Power BI report, you can export it from the visua
 and chose "Data with current layout":
 
 <img width="235" height="210" alt="image" src="https://github.com/user-attachments/assets/9b5ccb55-fb95-4c0f-bfd0-cf352a955fde" />
-
-
-
-> Tip for good quick notes:
-> Structure your notes in a few words in the form ***<Project Title/Name> - <Quick description of what you did in a few words>***
 
 - and then you will need **the suggested prompts on this page**, but you can tweak them, use your own, the possibilities are endless !
 
