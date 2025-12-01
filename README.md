@@ -5,8 +5,23 @@
 
 ## Prerequisites
 
-- your activity file (Excel or CSV)
-- the suggested prompts on this page, but you can tweak them, use your own, the possibilities are endless ! 🤩
+- **your activity file (Excel or CSV)**. To have the best results in generating an activity report with Copilot, this CSV or Excel report should have at least the following columns:
+  - ***Labor date***
+  - **Engineer Name**, especially if several engineers share the same workbook to track their labor notes
+  - ***Customer or Company Name***
+  - ***Labor Notes***
+  - Optionnally ***Logged Hours*** indicating how much labor the task took
+
+ |Labor Date|Engineer Name|Customer or Company Name|Labor Notes|Logged Hours|
+ |----------|-------------|------------------------|-----------|------------|
+
+ Example:
+ <img width="451" height="241" alt="image" src="https://github.com/user-attachments/assets/fd564080-bf08-47c2-95f5-f075b5a6d9ed" />
+
+> Tip for good quick notes:
+> Structure a few words in the form ***<Project Title/Name> - <Description of what you did in a few words>***
+
+- **the suggested prompts on this page**, but you can tweak them, use your own, the possibilities are endless !
 
 ## Step 1 - Upload your CSV / XLSX file
 
