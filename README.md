@@ -131,4 +131,6 @@ Copilot prompt:	Can you write a conclusion from the logged notes ?
 Generate a formatted Word document.
 ```
 
-Copilot will generate a Word document and give you a download link.
+Copilot will generate a Word document and give you a download link similar to the below:
+
+
