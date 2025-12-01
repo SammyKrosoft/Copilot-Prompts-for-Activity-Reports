@@ -1,4 +1,15 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+    </td>
+    <td align="center" valign="middle">
+      <strong>Welcome to aka.ms/CopilotActivityReporting</strong>
+    </td>
+  </tr>
+</
+
 
 
 # Generate an activity report for each customer (monthly, bi-monthly,...)
