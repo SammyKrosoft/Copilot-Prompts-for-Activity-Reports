@@ -64,6 +64,10 @@ And copy (CTRL+C) the customer name you want to fill the template with to paste 
 We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...
 ```
 
+Example:
+
+<img width="450" height="64" alt="image" src="https://github.com/user-attachments/assets/eedd9729-fb75-4b2a-a708-ec0fda5c929c" />
+
 
 ## Step 4 - Ask copilot to use a template you paste
 
