@@ -125,6 +125,8 @@ Copilot prompt:	Can you write a conclusion from the logged notes ?
 ```
 ## Step 5 - Generate a formatted Word document
 
-**Prompt**: ```Generate a formatted Word document.```
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] :**
+
+```Generate a formatted Word document.```
 
 Copilot will generate a Word document and give you a download link.
