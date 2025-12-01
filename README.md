@@ -8,7 +8,7 @@
       <strong>Welcome to aka.ms/CopilotActivityReporting</strong>
     </td>
   </tr>
-</
+</table>
 
 
 
