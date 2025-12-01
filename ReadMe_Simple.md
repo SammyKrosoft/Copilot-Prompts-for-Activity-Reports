@@ -14,11 +14,7 @@
 
  |Labor Date|Engineer Name or Alias|Customer or Company Name|Labor Notes|Logged Hours|
  |----------|-------------|------------------------|-----------|------------|
-
- Example:
  
- <img width="451" height="241" alt="image" src="https://github.com/user-attachments/assets/fd564080-bf08-47c2-95f5-f075b5a6d9ed" />
-
 > Tip for good quick notes:
 > Structure a few words in the form ***<Project Title/Name> - <Quick description of what you did in a few words>***
 
