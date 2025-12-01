@@ -6,7 +6,7 @@
     </td>
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
-      <span style="font-size:32px; font-weight:bold;">Welcome to aka.ms/CopActRep</span>
+      <span style="font-size:32px; font-weight:bold;">Welcome to aka.ms/CopActRep<br>Shorter version of aka.ms/CopilotActivityReporting</span>
     </td>
   </tr>
 </table>
