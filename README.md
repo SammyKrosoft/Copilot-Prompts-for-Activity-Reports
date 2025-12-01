@@ -7,12 +7,12 @@
 
 - you will need **your activity file (Excel or CSV)**. To have the best results in generating an activity report with Copilot, this CSV or Excel report should have at least the following columns:
   - ***Labor date***
-  - **Engineer Name**, especially if several engineers share the same workbook to track their labor notes
+  - **Engineer Name or Alias**, especially if several engineers share the same workbook to track their labor notes
   - ***Customer or Company Name***
   - ***Labor Notes***
   - Optionnally ***Logged Hours*** indicating how much labor the task took
 
- |Labor Date|Engineer Name|Customer or Company Name|Labor Notes|Logged Hours|
+ |Labor Date|Engineer Name or Alias|Customer or Company Name|Labor Notes|Logged Hours|
  |----------|-------------|------------------------|-----------|------------|
 
  Example:
