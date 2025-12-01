@@ -49,7 +49,7 @@ and chose "Data with current layout":
 
 
 > Tip for good quick notes:
-> Structure a few words in the form ***<Project Title/Name> - <Quick description of what you did in a few words>***
+> Structure your notes in a few words in the form ***<Project Title/Name> - <Quick description of what you did in a few words>***
 
 - and then you will need **the suggested prompts on this page**, but you can tweak them, use your own, the possibilities are endless !
 
