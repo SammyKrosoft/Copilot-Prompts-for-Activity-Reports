@@ -137,3 +137,6 @@ Copilot will generate a Word document and give you a download link similar to th
 
 ... and Copilot even proposes to create an Excel companion file ! This AI tool is awesome 🥹
 
+<img width="592" height="356" alt="image" src="https://github.com/user-attachments/assets/184d5010-af09-4487-bd39-e55bafa67b72" />
+
+
