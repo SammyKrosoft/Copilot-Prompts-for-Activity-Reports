@@ -22,7 +22,7 @@
 
 ## Step 1 - Upload your CSV / XLSX file
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
 *No prompt here, just chose **Add work content**, chose the file and hit [Enter].*
 
 Copilot will load it into the session (Copilot 365 will upload it in your Onedrive for Business drive), and you will have to validate as if you had put a prompt - but you will just have the file in the chat box.
