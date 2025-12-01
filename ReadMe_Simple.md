@@ -1,4 +1,15 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+<table style="width:100%; border-collapse:collapse; border:none;" border="0">
+  <tr>
+    <!-- Image Cell -->
+    <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
+      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+    </td>
+    <!-- Text Cell -->
+    <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
+      <span style="font-size:32px; font-weight:bold;">Welcome to aka.ms/CopActRep</span>
+    </td>
+  </tr>
+</table>
 
 > Note: a more verbose  version of this Walk-Through exists on this link : [More verbose version of this Walk-Through](https://aka.ms/CopilotActivityReporting)
 
