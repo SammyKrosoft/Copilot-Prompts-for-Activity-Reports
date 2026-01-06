@@ -118,7 +118,7 @@ Copilot prompt:	Can you write a conclusion from the logged notes ?
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] :**
 
 ```
-Generate a formatted Word document.
+Generate the Word‑ready formatted version and produce the companion Excel file.
 ```
 
 Copilot will generate a Word document and give you a download link.
