@@ -160,9 +160,10 @@ Copilot prompt:	Can you write a conclusion from the logged notes ?
 Generate the Word‑ready formatted version and produce the companion Excel file.
 ```
 
-Copilot will generate a Word document and give you a download link similar to the below:
+Copilot will generate documents and give you download links similar to the below:
 
-<img width="318" height="354" alt="image" src="https://github.com/user-attachments/assets/10611e96-8b53-4e63-9cc1-2b324f9b7e52" />
+<img width="858" height="753" alt="image" src="https://github.com/user-attachments/assets/4f056ff0-03e0-4449-984b-da09a36a65cf" />
+
 
 The Word document might need some tweaking, but here's what it looks like:
 
@@ -173,7 +174,7 @@ Also Copilot cannot generate a Table of Contents for now, but the formatting use
 <img width="259.5" height="175" alt="image" src="https://github.com/user-attachments/assets/381a96b2-234e-4998-9704-1643c896879c" />
 
 
-... and Copilot even proposes to create an Excel companion file ! This AI tool is awesome 🥹
+... and the Copilot generated  Excel companion file is also a great addition ! This AI tool is awesome 🥹
 
 <img width="592" height="356" alt="image" src="https://github.com/user-attachments/assets/184d5010-af09-4487-bd39-e55bafa67b72" />
 
