@@ -130,7 +130,7 @@ Copilot will generate a Word document and give you a download link.
 
 Sample prompt you can use in Word Copilot when you create a new document
 
-<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/9ce36476-cca4-4bb8-8bc8-8dc081224806" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/9ce36476-cca4-4bb8-8bc8-8dc081224806" />
 
 
 ```
