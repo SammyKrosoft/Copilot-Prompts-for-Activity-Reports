@@ -86,20 +86,21 @@ Copilot prompt:	Can you create a table with the above projects, and with a Title
 
 Note: An Excel companion with data validation can be generated if required.
 
+
 3. 	Activities Summary
 
 Copilot prompt:	Can you list all the logged notes in a table, with the following columns: Project Title, Logged Notes, Date using the exact precise dates from the source activity file?
-
-Copilot prompt:	[Optional (to have an Excel companion for tasks / projects follow up)] - export this table to Excel and include data validation picklists for Health (🙂/😐/🙁) and Progress (Planned/In progress/In review/Completed).
 
 
 4. 	Risks / Challenges
 
 4.1	Current
 
-Copilot prompt:	No prompts – manually populate the below table if needed – or delete this section.
+Manually populate the below table if there are some risks that were not covered in the Logged notes:
 
-Risk	Severity	Action taken	Status
+|Risk|Severity|Action taken|Status|
+|----|--------|------------|------|
+
 
 4.2	Addressed in the activities
 
