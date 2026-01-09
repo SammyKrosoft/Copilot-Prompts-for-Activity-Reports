@@ -76,14 +76,15 @@ Copilot prompt:	Can you give me an executive summary about the activity for the 
 
 2. 	Main tasks and projects
 
-2.1	Tasks \& Projects description
+2.1	Tasks & Projects description
 
 Copilot prompt:	Source: the same customer. Context: the log notes represent tasks that were realized under specific projects. Can you try to group the tasks into global project titles \[still without any references please] ?
 
-2.2	Proposed status \& follow-up table
+2.2	Proposed status & follow-up table
 
 Copilot prompt:	Can you create a table with the above projects, and with a Title column containing the project name, a Description column containing a short description for the project, a Health column containing 3 smileys (one happy, one meh, one unhappy), a Progress column a Start date and an ETA (Estimated Time of Arrival) column ?
 
+Note: An Excel companion with data validation can be generated if required.
 
 3. 	Activities Summary
 
