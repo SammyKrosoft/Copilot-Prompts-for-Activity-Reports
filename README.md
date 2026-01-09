@@ -99,20 +99,18 @@ Example:
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the *Step #3* prompt above** :
 
 ```
-Fill this template for customer specified on the previous prompt, for the months specified in the previous prompt, using the Copilot Prompt suggested for each part. Do not change the titles. Context: the generated activity report will be for a Word document.
+Fill this template for customer specified on the previous prompt, for the months specified in the previous prompt, using the Copilot Prompt suggested for each part. Do not change the titles. Use nice formatting. Don't put references to the source. Context: the generated activity report will be for a Word document.
 
 Title: Activity Report for <Customer Name>
 
 Period covered: <month or dates covered in this activity report>
 
-1\. 	Executive Summary
+1. 	Executive Summary
 
-Copilot prompt:	Can you give me an executive summary about the activity for the customer <Customer Name> / <the selected customer>, and for the month(s) of <Month Name>, without the information about the Overhead and without any hours information, and without any references please ?
+Copilot prompt:	Can you give me an executive summary about the activity for the customer <Customer Name> / <the selected customer>, and for the month(s) of <Month Name>, without the information about the Overhead and without any hours information, and without any references please ? Also, Provide more details on the specific actions taken please
 
-Copilot prompt	\[Optional] - Provide more details on the specific actions taken
- 
 
-2\. 	Main tasks and projects
+2. 	Main tasks and projects
 
 2.1	Tasks \& Projects description
 
@@ -123,14 +121,14 @@ Copilot prompt:	Source: the same customer. Context: the log notes represent task
 Copilot prompt:	Can you create a table with the above projects, and with a Title column containing the project name, a Description column containing a short description for the project, a Health column containing 3 smileys (one happy, one meh, one unhappy), a Progress column a Start date and an ETA (Estimated Time of Arrival) column ?
 
 
-3\. 	Activities Summary
+3. 	Activities Summary
 
 Copilot prompt:	Can you list all the logged notes in a table, with the following columns: Project Title, Logged Notes, Date using the exact precise dates from the source activity file?
 
-Copilot prompt:	\[Optional (to have an Excel companion for tasks / projects follow up)] - export this table to Excel and include data validation picklists for Health (🙂/😐/🙁) and Progress (Planned/In progress/In review/Completed).
+Copilot prompt:	[Optional (to have an Excel companion for tasks / projects follow up)] - export this table to Excel and include data validation picklists for Health (🙂/😐/🙁) and Progress (Planned/In progress/In review/Completed).
 
 
-4\. 	Risks / Challenges
+4. 	Risks / Challenges
 
 4.1	Current
 
@@ -143,9 +141,9 @@ Risk	Severity	Action taken	Status
 Copilot prompt:	Can you identify the top 3 risks and challenges from the logged notes ?
  
 
-5\. 	Conclusion / Next Actions
+5. 	Conclusion / Next Actions
 
-Copilot prompt:	Can you write a conclusion from the logged notes ?
+Copilot prompt:	Write a conclusion from the logged notes.
 
 ```
 
