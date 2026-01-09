@@ -126,4 +126,16 @@ Copilot will generate a Word document and give you a download link.
 
 ... and Copilot even proposes to create an Excel companion file ! This AI tool is awesome 🥹
 
+## Other option to generate a Word report: Use https://Word.Copilot.Microsoft and ask Copilot to create a nicely formatted document from the generated report above
 
+Sample prompt you can use in Word Copilot when you create a new document
+
+<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/9ce36476-cca4-4bb8-8bc8-8dc081224806" />
+
+
+```
+Create a nicely formatted document from the following information, and add a table of contents:
+
+<Paste the M365 generated report here, as is, Copilot will remove unnecessary clutter - always review the generated report anyways>
+
+```
