@@ -123,14 +123,9 @@ Copilot prompt:	Can you create a table with the above projects, and with a Title
 Note: An Excel companion with data validation can be generated if required.
 
 
-3. 	Activities Summary
+3. 	Risks / Challenges
 
-Copilot prompt:	Can you list all the logged notes in a table, with the following columns: Project Title, Logged Notes, Date using the exact precise dates from the source activity file?
-
-
-4. 	Risks / Challenges
-
-4.1	Current
+3.1	Current
 
 Manually populate the below table if there are some risks that were not covered in the Logged notes:
 
@@ -138,14 +133,20 @@ Manually populate the below table if there are some risks that were not covered 
 |----|--------|------------|------|
 
 
-4.2	Addressed in the activities
+3.2	Addressed in the activities
 
 Copilot prompt:	Can you identify the top 3 risks and challenges from the logged notes ?
  
 
-5. 	Conclusion / Next Actions
+4. 	Conclusion / Next Actions
 
 Copilot prompt:	Write a conclusion from the logged notes.
+
+
+
+ANNEX - Activities Details
+
+Copilot prompt:	List all the logged notes in a table, with the following columns: Project Title, Logged Notes, Date using the exact precise dates from the source activity file
 
 ```
 
