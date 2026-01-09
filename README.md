@@ -153,12 +153,13 @@ Copilot prompt:	List all the logged notes in a table, with the following columns
 <img width="439" height="282" alt="image" src="https://github.com/user-attachments/assets/fce6e369-e2af-41d3-be2e-c8141b4a0ec8" />
 
 
-## Step 5 - Generate a formatted Word document
+## Step 5 - If you want to generate a formatted Word document
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] :**
 
 ```
-Generate the Word‑ready formatted version and produce the companion Excel file.
+Generate the Word‑ready formatted version and produce the companion Excel file from section 2.2 Proposed status & follow-up table.
+
 ```
 
 Copilot will generate documents and give you download links similar to the below:
@@ -177,6 +178,17 @@ Also Copilot cannot generate a Table of Contents for now, but the formatting use
 
 ... and the Copilot generated  Excel companion file is also a great addition ! This AI tool is awesome 🥹
 
-<img width="592" height="356" alt="image" src="https://github.com/user-attachments/assets/184d5010-af09-4487-bd39-e55bafa67b72" />
+<img width="1310" height="144" alt="image" src="https://github.com/user-attachments/assets/b40c8829-da78-4bdb-a045-1d806d098e43" />
 
+## Other option to generate a Word report: Use https://Word.Copilot.Microsoft and ask Copilot to create a nicely formatted document from the generated report above
 
+<img width="1799" height="346" alt="image" src="https://github.com/user-attachments/assets/a6205f8c-bac8-4013-b265-990e39aa1023" />
+
+Sample prompt used:
+
+```
+Create a nicely formatted document from the following information, and add a table of contents:
+
+<Paste the M365 generated report here, as is, Copilot will remove unnecessary clutter - always review the generated report anyways>
+
+```
