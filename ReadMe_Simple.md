@@ -126,7 +126,7 @@ Copilot will generate a Word document and give you a download link.
 
 ... and Copilot even proposes to create an Excel companion file ! This AI tool is awesome 🥹
 
-## Other option to generate a Word report: Use https://Word.Copilot.Microsoft and ask Copilot to create a nicely formatted document from the generated report above
+## Other option to generate a Word report: Use https://Word.cloud.Microsoft and ask Copilot to create a nicely formatted document from the generated report above
 
 Sample prompt you can use in Word Copilot when you create a new document
 
