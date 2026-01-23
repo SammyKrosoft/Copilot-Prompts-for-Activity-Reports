@@ -180,7 +180,7 @@ Also Copilot cannot generate a Table of Contents for now, but the formatting use
 
 <img width="1310" height="144" alt="image" src="https://github.com/user-attachments/assets/b40c8829-da78-4bdb-a045-1d806d098e43" />
 
-## Other option to generate a Word report: Use https://Word.Copilot.Microsoft and ask Copilot to create a nicely formatted document from the generated report above
+## Other option to generate a Word report: Use https://Word.cloud.Microsoft and ask Copilot to create a nicely formatted document from the generated report above
 
 <img width="1799" height="346" alt="image" src="https://github.com/user-attachments/assets/a6205f8c-bac8-4013-b265-990e39aa1023" />
 
