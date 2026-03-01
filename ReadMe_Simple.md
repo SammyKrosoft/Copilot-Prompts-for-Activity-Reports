@@ -60,7 +60,7 @@ We will focus on the customer <Customer_Name>, and on the months of <Month 01>, 
 
 ## Step 4 - Ask copilot to use a template you paste
 
-Use the below prompt "as-is", no need to change anything. We will call it the "Promptlate" as in "Prompt" and "Template".
+Use the below prompt "as-is", no need to change anything. We will call it the "Promplate" as in "Prompt" and "Template".
 
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the *Step #3* prompt above** :
 
