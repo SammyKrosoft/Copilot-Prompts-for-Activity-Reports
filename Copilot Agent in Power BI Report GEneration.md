@@ -1,12 +1,18 @@
-## Prompts for Copilot agent in Power BI
+# Prompts for Copilot agent in Power BI
 
-# General summary prompt
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/6598725b-bbe6-4072-87a5-2f41cb80197d" />
+
+<img width="50%" height="50%" alt="LOGO_PowerBI" src="https://github.com/user-attachments/assets/e7ce32b1-936e-42be-8ba1-8b11e33f452c" />
+
+
+
+## General summary prompt
 
 ```
 Summarize the customer activities on this page, excluding "Unknown" which corresponds to logged time for internal projects, internal meetings, general admin, ...
 ```
 
-# Magic Prompt
+## Magic Prompt
 
 ```
 Fill this template for customer specified on this page filter, for the dates filtered in this page, using the Copilot Prompt suggested for each part. Do not change the titles. Use nice formatting. Don't put references to the source.
@@ -47,7 +53,7 @@ ANNEX - Activities Details
 Copilot prompt: List all the logged notes in a table, with the following columns: Project Title, Logged Notes, Date using the exact precise dates from the source activity file
 ```
 
-# https://word.cloud.microsoft Prompt:
+## https://word.cloud.microsoft Prompt:
 
 ```
 Generate a nicely formatted report with the following text, including a table of contents at the beginning:
