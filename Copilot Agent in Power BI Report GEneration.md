@@ -1,8 +1,8 @@
 # Prompts for Copilot agent in Power BI
 
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/6598725b-bbe6-4072-87a5-2f41cb80197d" />
+<img width="10%" height="10%" alt="image" src="https://github.com/user-attachments/assets/6598725b-bbe6-4072-87a5-2f41cb80197d" />
 
-<img width="50%" height="50%" alt="LOGO_PowerBI" src="https://github.com/user-attachments/assets/e7ce32b1-936e-42be-8ba1-8b11e33f452c" />
+<img width="10%" height="10%" alt="LOGO_PowerBI" src="https://github.com/user-attachments/assets/e7ce32b1-936e-42be-8ba1-8b11e33f452c" />
 
 
 
