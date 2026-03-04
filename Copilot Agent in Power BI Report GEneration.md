@@ -15,7 +15,7 @@ Summarize the customer activities on this page, excluding "Unknown" which corres
 ## Magic Prompt
 
 ```
-Fill this template for customer specified on this page filter, for the dates filtered in this page, using the Copilot Prompt suggested for each part. Do not change the titles. Use nice formatting. Don't put references to the source.
+Fill this template for customer selected on this page, for the dates filtered in this page, using the Copilot Prompt suggested for each part. Do not change the titles. Use nice formatting. Don't put references to the source.
 
 Title: Activity Report for <Customer Name>
 
