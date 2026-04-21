@@ -13,9 +13,9 @@
     </td>
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
-      <span style="font-size:32px; font-weight:bold;"><i>Click here for the prompt for Copilot inside Power BI<i></span>
+      <span style="font-size:32px; font-weight:bold;"><i>Click here for the prompt for Copilot inside Power BI<i></span> <br>
         <a href="https://github.com/SammyKrosoft/Copilot-Prompts-for-Activity-Reports/blob/main/Copilot%20Agent%20in%20Power%20BI%20Report%20GEneration.md">
-          <img width="20%" height="20%" alt="Copilot in Power BI Logo 2" src="https://github.com/user-attachments/assets/979266ca-c866-4a7b-bfb2-b8dfb00f88f2">
+          <img width="30%" height="30%" alt="Copilot in Power BI Logo 2" src="https://github.com/user-attachments/assets/979266ca-c866-4a7b-bfb2-b8dfb00f88f2">
         </a>
     </td>
   </tr>
