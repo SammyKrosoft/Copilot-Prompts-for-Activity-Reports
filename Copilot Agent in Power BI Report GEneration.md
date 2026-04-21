@@ -21,7 +21,7 @@ This is commented out. -->
     </td>
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:30%; border:none;">
-      <span style="font-size:32px; font-weight:bold;"><i>--> prompt for Copilot inside Power BI <-- <i></span> <br>
+      <span style="font-size:32px; font-weight:bold;"><i>--> Prompt for Copilot inside Power BI <-- <i></span> <br>
         <a href="#">
           <img width="60%" height="60%" alt="Copilot in Power BI Logo 2" src="https://github.com/user-attachments/assets/979266ca-c866-4a7b-bfb2-b8dfb00f88f2">
         </a>
