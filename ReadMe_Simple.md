@@ -1,14 +1,27 @@
-<table style="width:100%; border-collapse:collapse; border:none;" border="0">
+# Shorter version of aka.ms/CopilotActivityReporting
+
+<table style="width:100%; border-collapse:collapse; border:none;" border="1">
   <tr>
     <!-- Image Cell -->
-    <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
-      <a href = "#">
-      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+    <td style="text-align:center; vertical-align:middle; width:30%; border:none;">
+      <span style="font-size:32px; font-weight:bold;"><i>On this page: Copilot walkthrough to generate Activity Reports<i></span> <br>
+      <a href="https://github.com/SammyKrosoft/Copilot-Prompts-for-Activity-Reports/blob/main/README.md">
+      <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
       </a>
     </td>
     <!-- Text Cell -->
-    <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
-      <span style="font-size:32px; font-weight:bold;"><b>Welcome to aka.ms/CopActRep</b><br><i>Shorter version of aka.ms/CopilotActivityReporting</i></span>
+    <td style="text-align:center; vertical-align:middle; width:30%; border:none;">
+      <span style="font-size:32px; font-weight:bold;"><i>Simplified Copilot walkthrough<i></span> <br>
+      <a href="#">
+      <img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+      </a>
+    </td>
+    <!-- Text Cell -->
+    <td style="text-align:center; vertical-align:middle; width:30%; border:none;">
+      <span style="font-size:32px; font-weight:bold;"><i>Click here for the prompt for Copilot inside Power BI<i></span> <br>
+        <a href="https://github.com/SammyKrosoft/Copilot-Prompts-for-Activity-Reports/blob/main/Copilot%20Agent%20in%20Power%20BI%20Report%20GEneration.md">
+          <img width="30%" height="30%" alt="Copilot in Power BI Logo 2" src="https://github.com/user-attachments/assets/979266ca-c866-4a7b-bfb2-b8dfb00f88f2">
+        </a>
     </td>
   </tr>
 </table>
