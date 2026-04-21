@@ -125,9 +125,9 @@ Copilot prompt:	List all the logged notes in a table, with the following columns
 ```
 
 ## Step 5 - Generate a formatted Word document
-
+<a href="#">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] :**
-
+</a>
 ```
 Generate the Word‑ready formatted version and produce the companion Excel file from section 2.2 Proposed status & follow-up table.
 ```
