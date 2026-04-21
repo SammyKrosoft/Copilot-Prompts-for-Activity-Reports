@@ -1,7 +1,7 @@
 
 
 
-<table style="width:100%; border-collapse:collapse; border:none;" border="0">
+<table style="width:100%; border-collapse:collapse; border:none;" border="1">
   <tr>
     <!-- Image Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
