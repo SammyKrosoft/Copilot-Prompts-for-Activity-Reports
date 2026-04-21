@@ -35,8 +35,9 @@
 - and then you will need **the suggested prompts on this page**, but you can tweak them, use your own, the possibilities are endless !
 
 ## Step 1 - Upload your CSV / XLSX file
-
+<a href="#">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
+</a>
 *No prompt here, just chose **Add work content**, chose the file and hit [Enter].*
 
 Copilot will load it into the session (Copilot 365 will upload it in your Onedrive for Business drive), and you will have to validate as if you had put a prompt - but you will just have the file in the chat box.
@@ -44,7 +45,9 @@ You will need to wait a little bit that the file uploads to Onedrive (if you're 
 
 ## Step 2 - List the customers available in the uploaded file and the available period covered to shape Step 3 prompt
 
+<a href="#">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
+</a>
 ```
 List the customers available in the uploaded file and the available period covered. For each customer, give me the sum of hours logged, and sort by the hours logged . If a customer name is "Unknown", that means it's overhead time. Please ignore it.
 ```
@@ -54,8 +57,9 @@ This can take some time.
 And copy (CTRL+C) the customer name you want to fill the template with, to paste on the prompt on prompt ```<Customer_Name>``` placeholder on **Step 3** below.
 
 ## Step 3 - Tell Copilot which customer and what month(s) you will focus on
-
+<a href="#">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
+</a>
 ```
 We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...
 ```
@@ -63,8 +67,10 @@ We will focus on the customer <Customer_Name>, and on the months of <Month 01>, 
 ## Step 4 - Ask copilot to use a template you paste
 
 Use the below prompt "as-is", no need to change anything. We will call it the "Promplate" as in "Prompt" and "Template".
-
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the *Step #3* prompt above** :
+<a href="#">
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
+</a>
+**[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the *Step #3* prompt above** :
 
 ```
 Fill this template for customer specified on the previous prompt, for the months specified in the previous prompt, using the Copilot Prompt suggested for each part. Do not change the titles. Use nice formatting. Don't put references to the source. Context: the generated activity report will be for a Word document.
