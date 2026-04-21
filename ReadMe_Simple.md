@@ -1,4 +1,4 @@
-# Shorter version of aka.ms/CopilotActivityReporting
+# Simplified version of aka.ms/CopilotActivityReporting
 
 <table style="width:100%; border-collapse:collapse; border:none;" border="0">
   <tr>
