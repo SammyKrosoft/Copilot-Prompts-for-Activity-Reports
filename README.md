@@ -12,7 +12,7 @@
     </td>
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
-      <span style="font-size:32px; font-weight:bold;"><b>Welcome to aka.ms/CopilotActivityReporting<b></span>
+      <span style="font-size:60px; font-weight:bold;"><b>Welcome to aka.ms/CopilotActivityReporting<b></span>
     </td>
     <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
