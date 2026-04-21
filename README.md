@@ -5,6 +5,7 @@
   <tr>
     <!-- Image Cell -->
     <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
+      <span style="font-size:32px; font-weight:bold;"><i>On this page: Copilot walkthrough to generate Activity Reports<i></span> <br>
       <a href="#">
       <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
       </a>
