@@ -3,7 +3,7 @@
 <!-- This is commented out. <img width="10%" height="10%" alt="image" src="https://github.com/user-attachments/assets/6598725b-bbe6-4072-87a5-2f41cb80197d" />
 <img width="10%" height="10%" alt="LOGO_PowerBI" src="https://github.com/user-attachments/assets/e7ce32b1-936e-42be-8ba1-8b11e33f452c" />
 This is commented out. -->
-<table style="width:100%; border-collapse:collapse; border:none;" border="1">
+<table style="width:100%; border-collapse:collapse; border:none;" border="0">
   <tr>
         <!-- Text Cell -->
     <td style="text-align:center; vertical-align:middle; width:30%; border:none;">
@@ -13,7 +13,7 @@ This is commented out. -->
         </a>
     </td>
     <!-- Text Cell -->
-    <td style="text-align:center; vertical-align:middle; width:30%; border:none;">
+    <td style="text-align:center; vertical-align:middle; width:50%; border:none;">
       <span style="font-size:32px; font-weight:bold;"><b>Welcome to aka.ms/CopilotActivityReporting<b></span>
     </td>
     <!-- Image Cell -->
