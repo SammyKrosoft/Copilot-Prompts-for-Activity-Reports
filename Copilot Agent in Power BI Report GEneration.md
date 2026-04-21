@@ -1,9 +1,8 @@
 # Prompts for Copilot agent in Power BI
 
-<img width="10%" height="10%" alt="image" src="https://github.com/user-attachments/assets/6598725b-bbe6-4072-87a5-2f41cb80197d" />
-
+<!-- This is commented out. <img width="10%" height="10%" alt="image" src="https://github.com/user-attachments/assets/6598725b-bbe6-4072-87a5-2f41cb80197d" />
 <img width="10%" height="10%" alt="LOGO_PowerBI" src="https://github.com/user-attachments/assets/e7ce32b1-936e-42be-8ba1-8b11e33f452c" />
-
+This is commented out. -->
 <table style="width:100%; border-collapse:collapse; border:none;" border="1">
   <tr>
         <!-- Text Cell -->
