@@ -1,10 +1,10 @@
 # Shorter version of aka.ms/CopilotActivityReporting
 
-<table style="width:100%; border-collapse:collapse; border:none;" border="1">
+<table style="width:100%; border-collapse:collapse; border:none;" border="0">
   <tr>
     <!-- Image Cell -->
     <td style="text-align:center; vertical-align:middle; width:30%; border:none;">
-      <span style="font-size:32px; font-weight:bold;"><i>Copilot walkthrough to generate Activity Reports<i></span> <br>
+      <span style="font-size:32px; font-weight:bold;"><i>-->Copilot walkthrough to generate Activity Reports <-- <i></span> <br>
       <a href="https://github.com/SammyKrosoft/Copilot-Prompts-for-Activity-Reports/blob/main/README.md">
       <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
       </a>
