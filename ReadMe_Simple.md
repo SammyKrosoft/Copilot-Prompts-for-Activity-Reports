@@ -63,7 +63,6 @@ You will need to wait a little bit that the file uploads to Onedrive (if you're 
 </a>
 
 **[Prompt]**:
-
 ```
 List the customers available in the uploaded file and the available period covered. For each customer, give me the sum of hours logged, and sort by the hours logged . If a customer name is "Unknown", that means it's overhead time. Please ignore it.
 ```
@@ -78,7 +77,6 @@ And copy (CTRL+C) the customer name you want to fill the template with, to paste
 </a>
 
 **[Prompt]**:
- 
 ```
 We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...
 ```
@@ -91,7 +89,6 @@ Use the below prompt "as-is", no need to change anything. We will call it the "P
 </a>
 
 **[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the *Step #3* prompt above** :
-
 ```
 Fill this template for customer specified on the previous prompt, for the months specified in the previous prompt, using the Copilot Prompt suggested for each part. Do not change the titles. Use nice formatting. Don't put references to the source. Context: the generated activity report will be for a Word document.
 
