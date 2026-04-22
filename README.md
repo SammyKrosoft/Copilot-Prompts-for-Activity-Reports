@@ -65,7 +65,7 @@ and chose "Data with current layout":
 ## Step 1 - Upload your CSV / XLSX file
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
-*No prompt here, just chose **Add work content**, chose the file and hit [Enter].*
+*No prompt here, just chose **Add work content**, chose the file and hit [Enter], or drag and drop your file on the M365 Copilot App*
 
 <img width="435" height="202" alt="image" src="https://github.com/user-attachments/assets/beb8bb56-7f19-41bb-8be8-866d3ef77d72" />
 
