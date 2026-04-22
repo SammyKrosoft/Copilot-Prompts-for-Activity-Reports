@@ -59,8 +59,10 @@ You will need to wait a little bit that the file uploads to Onedrive (if you're 
 ## Step 2 - List the customers available in the uploaded file and the available period covered to shape Step 3 prompt
 
 <a href="#">
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 </a>
+**[Prompt]**:
+
 ```
 List the customers available in the uploaded file and the available period covered. For each customer, give me the sum of hours logged, and sort by the hours logged . If a customer name is "Unknown", that means it's overhead time. Please ignore it.
 ```
@@ -71,8 +73,10 @@ And copy (CTRL+C) the customer name you want to fill the template with, to paste
 
 ## Step 3 - Tell Copilot which customer and what month(s) you will focus on
 <a href="#">
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" /> **[Prompt]**: 
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 </a>
+ **[Prompt]**: 
+ 
 ```
 We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...
 ```
