@@ -52,7 +52,7 @@
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 </a>
 
-**[Prompt]**: *No prompt here, just chose **Add work content**, chose the file and hit [Enter].*
+**[Prompt]**: *No prompt here, just chose **Add work content**, chose the file and hit [Enter], or drag and drop your file on the M365 Copilot App*
 
 Copilot will load it into the session (Copilot 365 will upload it in your Onedrive for Business drive), and you will have to validate as if you had put a prompt - but you will just have the file in the chat box.
 You will need to wait a little bit that the file uploads to Onedrive (if you're using M365 Copilot App or chat) or to the Copilot chat session. Sometimes, copilot will then summarize the uploaded file and give info on the file content, sometimes not, depends on its mood.
