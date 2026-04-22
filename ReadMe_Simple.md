@@ -61,6 +61,7 @@ You will need to wait a little bit that the file uploads to Onedrive (if you're 
 <a href="#">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 </a>
+
 **[Prompt]**:
 
 ```
@@ -75,7 +76,8 @@ And copy (CTRL+C) the customer name you want to fill the template with, to paste
 <a href="#">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 </a>
- **[Prompt]**: 
+
+**[Prompt]**:
  
 ```
 We will focus on the customer <Customer_Name>, and on the months of <Month 01>, <Month 02>, etc...
@@ -87,6 +89,7 @@ Use the below prompt "as-is", no need to change anything. We will call it the "P
 <a href="#">
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0231166d-41cd-4130-8c24-44c12e0a47ce" />
 </a>
+
 **[Prompt] - copy the whole prompt below, no need to change customer name or period because we specified it on the *Step #3* prompt above** :
 
 ```
